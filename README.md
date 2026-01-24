@@ -124,6 +124,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Miguel Cobá|-|[@miguelcoba.com](https://bsky.app/profile/miguelcoba.com)|
 |Mike Sax|-|[@mikesax@mas.to](https://mas.to/@mikesax)|
 |Mike Subelsky|-|[https://www.subelsky.com](https://www.subelsky.com)|
+|Miko Zdravkovski|CEO of Hcat GmbH|[@mikozdravkovski](https://github.com/mikozdravkovski)|
 |Mina Slater|-|[@minaslater](https://github.com/minaslater)|
 |Nate Montgomery|Ruby lover since 2011|[@natemontgomery](https://github.com/natemontgomery)|
 |Nic Lake|-|[https://niclake.me](https://niclake.me)|
