@@ -164,6 +164,7 @@ If a forked Rails project can meet these criteria, we pledge to support and chee
 |Wout Fierens|-|[@wout.codes](https://bsky.app/profile/wout.codes)|
 |Ynda Jas|-|[@YndaJas@tech.lgbt](https://tech.lgbt/@YndaJas)|
 |Yvan Sraka|-|[@yvan@functional.cafe](https://functional.cafe/@yvan)|
+|Zoey Matthiesen|-|[@Ingrid3rd_@mastodon.social](https://mastodon.social/@Ingrid3rd_)|
 <!-- Please add your name in alphabetical order! -->
 
 ### Notes (non-normative)
